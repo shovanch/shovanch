@@ -19,5 +19,5 @@ Want to talk about frontend platforms, eslint configs, high‑altitude/outdoor i
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello World](https://shovanch.com/posts/hello-world/)
+- [Hello World](https://shovanch.com/posts/hello-world)
 <!-- BLOG-POST-LIST:END -->
